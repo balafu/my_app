@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="my_test_package.AppTest" time="0.002" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="first_maven"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\Balazs_Fuge\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="73e3eddd92949728"/>
+    <property name="POM_ARTIFACTID" value="MavenTestApp"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.boot.class.path" value="c:\Program Files\Java\jdk1.8.0_73\jre\lib\resources.jar;c:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar;c:\Program Files\Java\jdk1.8.0_73\jre\lib\sunrsasign.jar;c:\Program Files\Java\jdk1.8.0_73\jre\lib\jsse.jar;c:\Program Files\Java\jdk1.8.0_73\jre\lib\jce.jar;c:\Program Files\Java\jdk1.8.0_73\jre\lib\charsets.jar;c:\Program Files\Java\jdk1.8.0_73\jre\lib\jfr.jar;c:\Program Files\Java\jdk1.8.0_73\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="MavenTestApp"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\Balazs_Fuge\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_73-b02"/>
+    <property name="PRUNMGR" value="C:\Program Files\DataStax Community\utils\prunmgr.exe"/>
+    <property name="PRUNSRV" value="C:\Program Files\DataStax Community\utils\prunsrv.exe"/>
+    <property name="user.name" value="Balazs_Fuge"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="sun.boot.library.path" value="c:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Balazs_Fuge\AppData\Local"/>
+    <property name="java.version" value="1.8.0_73"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Europe/Prague"/>
+    <property name="USERNAME" value="Balazs_Fuge"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="c:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="MVN_HOME" value="d:\servers\apache-maven\bin"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="c:\Program Files\Java\jdk1.8.0_73\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.1"/>
+    <property name="=ExitCode" value="00000000"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\Balazs_Fuge\AppData\Local\Temp"/>
+    <property name="CASSANDRA_HOME" value="C:\Program Files\DataStax Community\apache-cassandra\"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.73-b02"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="c:\Program Files\Java\jdk1.8.0_73\"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\Balazs_Fuge"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="USERDNSDOMAIN" value="BUDAPEST.EPAM.COM"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="EPHUBUDW0593"/>
+    <property name="POM_GROUPID" value="my_test_package"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="user.home" value="C:\Users\Balazs_Fuge"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-first_maven-3"/>
+    <property name="JENKINS_SERVER_COOKIE" value="73e3eddd92949728"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Balazs_Fuge"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="c:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;d:\servers\apache-maven/bin;c:\Program Files\Java\jdk1.8.0_73\/bin;c:\Program Files\Java\jdk1.8.0_73\/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\PICT\;C:\Program Files (x86)\Skype\Phone\;C:\Python27;C:\Program Files\nodejs\;d:\git\copsdet\;d:\servers\apache-maven\bin;c:\Program Files\Java\jdk1.8.0_73\;C:\Program Files (x86)\IBM\IBM Tealeaf CX\;C:\Users\Balazs_Fuge\AppData\Roaming\npm;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Balazs_Fuge\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="D:\servers\apache-maven"/>
+    <property name="java.class.path" value="C:\Users\Balazs_Fuge\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;d:\servers\apache-maven\boot\plexus-classworlds-2.5.2.jar;d:\servers\apache-maven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main d:\servers\apache-maven C:\Users\Balazs_Fuge\.jenkins\war\WEB-INF\lib\remoting-2.53.3.jar C:\Users\Balazs_Fuge\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\Balazs_Fuge\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 51409"/>
+    <property name="Path" value="c:\Program Files\Java\jdk1.8.0_73\/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\PICT\;C:\Program Files (x86)\Skype\Phone\;C:\Python27;C:\Program Files\nodejs\;d:\git\copsdet\;d:\servers\apache-maven\bin;c:\Program Files\Java\jdk1.8.0_73\;C:\Program Files (x86)\IBM\IBM Tealeaf CX\;C:\Users\Balazs_Fuge\AppData\Roaming\npm"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="c:\Program Files\Java\jdk1.8.0_73\/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="DSCINSTALLDIR" value="C:\Program Files\DataStax Community\"/>
+    <property name="M2_HOME" value="d:\servers\apache-maven"/>
+    <property name="java.io.tmpdir" value="C:\Users\Balazs_Fuge\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Balazs_Fuge\.jenkins"/>
+    <property name="PATH+MAVEN" value="d:\servers\apache-maven/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/first_maven/3/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="java.ext.dirs" value="c:\Program Files\Java\jdk1.8.0_73\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="d:\automation\myapp\MavenTestApp"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/first_maven/"/>
+    <property name="LOGONSERVER" value="\\EVHUBUDSA0045"/>
+    <property name="USERDOMAIN" value="BUDAPEST"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="d:\servers\apache-maven"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="UATDATA" value="C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Users\Balazs_Fuge\Downloads"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Balazs_Fuge\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="WORKSPACE" value="C:\Users\Balazs_Fuge\.jenkins\jobs\first_maven\workspace"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Balazs_Fuge\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+  </properties>
+  <testcase classname="my_test_package.AppTest" name="testApp" time="0.002"/>
+</testsuite>

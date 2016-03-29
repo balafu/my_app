@@ -12,6 +12,6 @@ public class App
     {
         //System.out.println( "Hello World!" );
 	Logger logger = LoggerFactory.getLogger(App.class);
-	logger.info("Hello World!");
+	logger.info("Hello mod World!");
     }
 }
